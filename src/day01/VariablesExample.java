@@ -1,0 +1,17 @@
+package day01;
+
+public class VariablesExample {
+	 int instanceVar = 100;      
+	    static int staticVar = 200; 
+
+	    public static void main(String[] args) {
+
+	        int localVar = 300;     
+
+	        VariablesExample obj = new VariablesExample();
+
+	        System.out.println("Local Variable: " + localVar);
+	        System.out.println("Instance Variable: " + obj.instanceVar);
+	        System.out.println("Static Variable: " + staticVar);
+	    }
+}
