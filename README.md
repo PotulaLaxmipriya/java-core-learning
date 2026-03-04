@@ -93,9 +93,11 @@ Structured Core Java learning repository covering fundamentals, OOP, collections
 ## Topics Covered
 - List, Set, Map
 - ArrayList, HashSet, HashMap
-- TreeSet
-- Comparable and Comparator
-- Generics
+- TreeSet,TreeMap
+- LinkedList,LinkedHashMap,LinkedHashSet
+- PriorityQueue
+- Stack,Vector
+- Comparator
 
 ## Practice
 - Sorting custom objects
@@ -105,9 +107,10 @@ Structured Core Java learning repository covering fundamentals, OOP, collections
 ## Topics Covered
 - File class
 - FileReader and FileWriter
-- BufferedReader
+- BufferedReader and BufferedWriter
+- FileOutputStream
+- PrintWriter
 - Serialization
-- NIO
 
 ## Practice
 - Write student data to file
